@@ -9,15 +9,15 @@
 
 - 🤝 Busco ayuda para **crear, mejorar y suministrar ideas**
 
-- 👨‍💻 Todos mis trabajos estan disponibles en [[Portafolios]()]([Portafolios]())
+- 👨‍💻 Todos mis trabajos estan disponibles en [Portafolios]()
 
-- 📝 Normalmente estoy activo en [[Instagram](https://www.instagram.com/soymidaswolf/)]([Instagram](https://www.instagram.com/soymidaswolf/))
+- 📝 Normalmente estoy activo en [Instagram](https://www.instagram.com/soymidaswolf/)
 
 - 💬 Preguntadme sobre **HTML y CSS**
 
 - 📫 ¿Como me encuentras? **soymidaswolf@gmail.com**
 
-- 📄 Conoce un poco más sobre mí: [[About Me]()]([About Me]())
+- 📄 Conoce un poco más sobre mí: [About Me]()
 
 - ⚡ Fun fact **Me gusta tu mama 👉👈**
 
