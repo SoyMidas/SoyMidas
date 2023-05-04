@@ -9,9 +9,8 @@
         #b72954 80%, #a73279 90%, 
         #961b87 100%
         );
-    color: transparent;
     font-weight: 300;
-    -webkit-background-clip: text;">
+  color: #a73279">
     ¡Buenas!</span>, soy <span style="color:#e9c46a; font-weight: bolder;">Midas</span> 😚 </h1>
   <p style="font-size: 18px;">
     Bienvenidos a mi pagina de GitHub, 
